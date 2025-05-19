@@ -34,6 +34,8 @@ The primary dataset used for this analysis is the "CONSOLIDATED REPORT.xlsx" con
 - AI - Data Analysis
 - PowerBI - Creating Reports.
 
+![download](https://github.com/user-attachments/assets/99c04818-f19e-449d-b8d6-6f865630926c)
+
 ### Data Cleaning-Preparation
 
 In the initial data preparation phase, I performed the following task;
