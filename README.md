@@ -14,7 +14,7 @@
  
  ### Project Overview
 
-This data analysis project is aimed at to analyze and visualize material issue and return transactions over a 12-month period to understand:
+This data analysis project is aimed at to analyze and visualize material transactions over a 12-month period to understand:
 
 - Resource consumption and spending patterns.
 
